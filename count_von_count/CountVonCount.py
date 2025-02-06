@@ -1,21 +1,3 @@
-# version: CountvonCount 1.0
-# author: Sabrina Schmütsch
-
-
-# Instruction
-# 1 Open an online interpreter for python (e.g. https://www.online-python.com/)
-# 2 Copy this script.
-# 3 Paste the script into the code editor on the website.
-# 4 Press the green "Run"-button to start the script.
-#   You will see the output in the console at the bottom of the page.
-# 5 To interact with the script, type your answer in the console input field and press Enter to submit.
-
-
-# planned Updates:
-    # Extension to include language selection for German
-    # Improvement of interactiv responses
-    # Improvement of code structure
-
 # import needed packages
 import time
 import textwrap
