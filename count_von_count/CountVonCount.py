@@ -11,7 +11,7 @@ def typewriter(str):  # define function for typewriter effect
     for char in str:
         sys.stdout.write(char)  # character-by-character output
         sys.stdout.flush()  # empty the buffer and display immediately
-#        time.sleep(0.05)   # delay for typewriter effect
+        time.sleep(0.05)   # delay for typewriter effect
     print()     # new line after output
 
 
