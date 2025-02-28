@@ -16,12 +16,6 @@ Make sure to check the box to have Python added to your PATH if the installer of
 3) Run the script and follow the instructions in the terminal to input your name. </br>
 The script will print the sum of the letters in your name.
 
-### Run Unit Tests
-1) Open a terminal and navigate to the project folder (if not already there).
-2) To run the tests, type:
-_python -m unittest test_name_sum.py_
-3) The terminal will display the test results. If all tests pass, you’ll see a message saying "OK".
-
 ## Planned Updates
 - Extension to include language selection for German 
 - Improvement of interactive responses 
